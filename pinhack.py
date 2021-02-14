@@ -1,3 +1,5 @@
+# Script that demostrates how quickly a PIN can be hacked with brute force
+
 # Start
 def start_test():
     import time
